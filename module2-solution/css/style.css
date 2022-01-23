@@ -34,7 +34,8 @@ p{
 
 .menuTitle{
     border: 2px solid #000;
-    padding: 3px 50px;
+    padding: 3px 10px;
+    width: 120px;
     position: relative;
     float: right;
     text-align: center;
